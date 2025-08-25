@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Saiyukta Parmar"
+title                    : "Portfolio"
 title_separator          : "|"
 subtitle                 : "Graduate Software Developer | MSc Computing & Information Systems"
 name                     : "Saiyukta Parmar"
@@ -88,6 +88,15 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+
+# Site navigation links
+nav:
+  - title: "About Me"
+    url: _pages/about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
 
 # Social Sharing
 twitter:
