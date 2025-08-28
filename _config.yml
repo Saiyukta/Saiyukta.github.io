@@ -92,11 +92,8 @@ baidu_site_verification  :
 # Site navigation links
 nav:
   - title: "About Me"
-    url: _pages/about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+    url: /about/
+
 
 # Social Sharing
 twitter:
