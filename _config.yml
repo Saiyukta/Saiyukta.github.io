@@ -93,6 +93,8 @@ baidu_site_verification  :
 nav:
   - title: "About Me"
     url: /about/
+  - title: "Projects"
+    url: /projects/
 
 
 # Social Sharing
