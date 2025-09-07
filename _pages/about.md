@@ -41,6 +41,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 ## 📜 Certifications  
 <div style="background:#f9f9f9; padding:15px; border-left:5px solid #ff9900; border-radius:8px; color:black;">
 <strong>🎓 React Native Masterclass Certificate</strong><br>
+   <img src="/assets/images/certificate/sarah_certificate.jpg" alt="Museum Artefacts Website" style="width:100%; height:auto;">
 <i>Includes:</i>
 <ul>
   <li>Craft Stunning Adaptive UI</li>
