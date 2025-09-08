@@ -60,7 +60,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 
 <!-- Museum Artefacts Website -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
-  <a href="/projects/museum-artefacts/">
+  <a href="/projects">
     <img src="/assets/muesem.png" alt="Museum Artefacts Selling Website" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
@@ -75,7 +75,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 
 <!-- London Musical Ticket Booking GUI -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
-  <a href="/projects/london-musical-gui/">
+  <a href="/projects">
     <img src="/assets/musical.png" alt="London Musical Ticket Booking GUI" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
