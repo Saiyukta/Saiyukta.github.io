@@ -42,7 +42,7 @@ A responsive web application that allows users to explore and learn about museum
 ### Technologies
 HTML | CSS | JavaScript | PHP | MySQL
 
-[📂 View Code on GitHub](https://github.com/yourusername/museum-artefacts) | [🔗 Live Demo](https://your-demo-link.com)
+[📂 View Code on GitHub](https://github.com/yourusername/museum-artefacts) |  <a href="/assets/Museum_Report.pdf" download>Download Report</a>
 
 ---
 
@@ -77,7 +77,7 @@ A web-based ticket booking system designed to provide users with a seamless and 
 ### Technologies
 Java | NetBeans | PHP | MySQL  
 
-[📂 View Code on GitHub](https://github.com/yourusername/musical-ticket-booking) | [🔗 Live Demo](https://your-demo-link.com)
+[📂 View Code on GitHub](https://github.com/yourusername/musical-ticket-booking) |  <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
 
 ---
 
