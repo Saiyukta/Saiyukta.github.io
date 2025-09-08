@@ -41,7 +41,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 ## 📜 Certifications  
 <div style="background:#f9f9f9; padding:15px; border-left:5px solid #ff9900; border-radius:8px; color:black;">
 <strong>🎓 React Native Masterclass Certificate</strong><br>
-   <img src="/assets/images/certificate/sarah_certificate.jpg" alt="Museum Artefacts Website" style="width:100%; height:auto;"><br>
+   <img src="/assets/sarah_certificate.jpg" alt="Museum Artefacts Website" style="width:100%; height:auto;"><br>
 <i>Includes:</i>
 <ul>
   <li>Craft Stunning Adaptive UI</li>
@@ -61,7 +61,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 <!-- Museum Artefacts Website -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
   <a href="/projects/museum-artefacts/">
-    <img src="/assets/images/projects/museum.png" alt="Museum Artefacts Website" style="width:100%; height:auto;">
+    <img src="/assets/muesem.png" alt="Museum Artefacts Website" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
     <h4>Museum Artefacts Website</h4>
@@ -76,7 +76,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 <!-- London Musical Ticket Booking GUI -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
   <a href="/projects/london-musical-gui/">
-    <img src="/assets/images/projects/musical.png" alt="London Musical Ticket Booking GUI" style="width:100%; height:auto;">
+    <img src="/assets/musical.png" alt="London Musical Ticket Booking GUI" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
     <h4>London Musical Ticket Booking GUI</h4>
