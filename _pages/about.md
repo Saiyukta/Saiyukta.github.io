@@ -60,7 +60,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 
 <!-- Museum Artefacts Website -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
-  <a href="/projects">
+  <a href="/projects/#%EF%B8%8F-museum-artefacts-website">
     <img src="/assets/muesem.png" alt="Museum Artefacts Selling Website" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
@@ -68,14 +68,14 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
     <p>PHP/MySQL web app to display, manage and sell artefacts.</p>
     <p>
       <a href="https://github.com/yourusername/museum-artefacts" target="_blank">GitHub</a> | 
-      <a href="/assets/files/reports/Museum_Report.pdf" download>Download Report</a>
+      <a href="/assets/Museum_Report.pdf" download>Download Report</a>
     </p>
   </div>
 </div>
 
 <!-- London Musical Ticket Booking GUI -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
-  <a href="/projects">
+  <a href="/projects/#-musical-ticket-booking-gui">
     <img src="/assets/musical.png" alt="London Musical Ticket Booking GUI" style="width:100%; height:auto;">
   </a>
   <div style="padding:10px;">
@@ -83,7 +83,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
     <p>GUI to browse musicals, book tickets using Java & MySQL.</p>
     <p>
       <a href="https://github.com/yourusername/musical-gui" target="_blank">GitHub</a> | 
-      <a href="/assets/files/reports/Musical_GUI_Report.pdf" download>Download Report</a>
+      <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
     </p>
   </div>
 </div>
