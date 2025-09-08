@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# My Projects
-
 Here are some of the projects I’ve worked on:
 
 ---
