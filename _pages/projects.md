@@ -19,6 +19,7 @@ A responsive web application that allows users to explore and learn about museum
 <div class="carousel-container">
   <button class="prev" onclick="moveSlide(this, -1)">❮</button>
   <div class="carousel-slide">
+    <img src="/assets/museum.png" alt="Museum Screenshot">
     <img src="/assets/museum-1.png" alt="Museum Screenshot 1">
     <img src="/assets/museum-2.png" alt="Museum Screenshot 2">
     <img src="/assets/museum-3.png" alt="Museum Screenshot 4">
@@ -53,6 +54,7 @@ A web-based ticket booking system designed to provide users with a seamless and 
 <div class="carousel-container">
   <button class="prev" onclick="moveSlide(this, -1)">❮</button>
   <div class="carousel-slide">
+    <img src="/assets/musical.png" alt="Ticket Screenshot">
     <img src="/assets/musical-1.png" alt="Ticket Screenshot 1">
     <img src="/assets/musical-2.png" alt="Ticket Screenshot 2">
     <img src="/assets/musical-3.png" alt="Ticket Screenshot 3">
