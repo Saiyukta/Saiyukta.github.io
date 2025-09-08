@@ -94,7 +94,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 
 ## 📄 Download My Resume  
 <p align="center">
-  <a href="/assets/files/Saiyukta_Parmar.pdf" download class="btn btn--primary btn--large">
+  <a href="/assets/Saiyukta_Parmar.pdf" download class="btn btn--primary btn--large">
     📥 Download Resume
   </a>
 </p>
