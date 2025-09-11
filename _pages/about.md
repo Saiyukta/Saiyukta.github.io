@@ -67,7 +67,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
     <h4>Museum Artefacts Selling Website</h4>
     <p>PHP/MySQL web app to display, manage and sell artefacts.</p>
     <p>
-      <a href="https://github.com/yourusername/museum-artefacts" target="_blank">GitHub</a> | 
+      <a href="https://github.com/Saiyukta/MuseumArtefactsWebsite" target="_blank">GitHub</a> | 
       <a href="/assets/Museum_Report.pdf" download>Download Report</a>
     </p>
   </div>
@@ -82,7 +82,7 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
     <h4>London Musical Ticket Booking GUI</h4>
     <p>GUI to browse musicals, book tickets using Java & MySQL.</p>
     <p>
-      <a href="https://github.com/yourusername/musical-gui" target="_blank">GitHub</a> | 
+      <a href="https://github.com/Saiyukta/LondonMusicalTicketSystem" target="_blank">GitHub</a> | 
       <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
     </p>
   </div>
