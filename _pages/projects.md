@@ -35,12 +35,11 @@ A responsive web application that allows users to explore and learn about museum
 - Admin panel with full CRUD functionality for managing artefacts
 - User authentication for secure admin access (login/logout)
 - Responsive design for desktop, tablet, and mobile
--   
 
 ### Technologies
 HTML | CSS | JavaScript | PHP | MySQL
 
-[📂 View Code on GitHub](https://github.com/Saiyukta/MuseumArtefactsWebsite) |  <a href="/assets/Museum_Report.pdf" download>Download Report</a>
+ <a href="https://github.com/Saiyukta/MuseumArtefactsWebsite" target="_blank"> 📂 View Code on GitHub </a> |  <a href="/assets/Museum_Report.pdf" download>Download Report</a>
 
 ---
 
@@ -75,7 +74,7 @@ A web-based ticket booking system designed to provide users with a seamless and 
 ### Technologies
 Java | NetBeans | PHP | MySQL  
 
-[📂 View Code on GitHub](https://github.com/Saiyukta/LondonMusicalTicketSystem) |  <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
+ <a href="https://github.com/Saiyukta/LondonMusicalTicketSystem" target="_blank"> 📂 View Code on GitHub </a> |  <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
 
 ---
 
