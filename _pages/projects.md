@@ -35,7 +35,6 @@ A responsive web application that allows users to explore and learn about museum
 - Admin panel with full CRUD functionality for managing artefacts
 - User authentication for secure admin access (login/logout)
 - Responsive design for desktop, tablet, and mobile
--   
 
 ### Technologies
 HTML | CSS | JavaScript | PHP | MySQL
