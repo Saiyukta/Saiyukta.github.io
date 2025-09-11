@@ -40,7 +40,7 @@ A responsive web application that allows users to explore and learn about museum
 ### Technologies
 HTML | CSS | JavaScript | PHP | MySQL
 
-[📂 View Code on GitHub](https://github.com/yourusername/museum-artefacts) |  <a href="/assets/Museum_Report.pdf" download>Download Report</a>
+[📂 View Code on GitHub](https://github.com/Saiyukta/MuseumArtefactsWebsite) |  <a href="/assets/Museum_Report.pdf" download>Download Report</a>
 
 ---
 
@@ -75,7 +75,7 @@ A web-based ticket booking system designed to provide users with a seamless and 
 ### Technologies
 Java | NetBeans | PHP | MySQL  
 
-[📂 View Code on GitHub](https://github.com/yourusername/musical-ticket-booking) |  <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
+[📂 View Code on GitHub](https://github.com/Saiyukta/LondonMusicalTicketSystem) |  <a href="/assets/Musical_GUI_Report.pdf" download>Download Report</a>
 
 ---
 
@@ -83,18 +83,23 @@ Java | NetBeans | PHP | MySQL
 <style>
 .carousel-container {
   position: relative;
-  width: 80%;
-  margin: 20px auto;
+  width: 90%; /* Increased from 80% to 90% */
+  max-width: 1000px; /* Limit max width */
+  height: 600px; /* Set a fixed height for larger display */
+  margin: 30px auto; /* More spacing */
   overflow: hidden;
   border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3); /* Slightly stronger shadow */
 }
 .carousel-slide {
   display: flex;
   transition: transform 0.5s ease-in-out;
+  height: 100%;
 }
 .carousel-slide img {
   width: 100%;
+  height: 100%; /* Make images fill the carousel height */
+  object-fit: cover; /* Keep aspect ratio and cover area */
   border-radius: 12px;
   flex-shrink: 0;
 }
@@ -105,34 +110,20 @@ Java | NetBeans | PHP | MySQL
   background-color: rgba(0,0,0,0.5);
   color: white;
   border: none;
-  font-size: 24px;
-  padding: 8px 12px;
+  font-size: 28px; /* Slightly larger arrows */
+  padding: 10px 16px;
   cursor: pointer;
   border-radius: 50%;
   z-index: 10;
+  transition: background-color 0.3s;
 }
-.prev { left: 10px; }
-.next { right: 10px; }
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.prev { left: 15px; }
+.next { right: 15px; }
 </style>
 
-<!-- Carousel Script -->
-<script>
-function moveSlide(button, direction) {
-  const container = button.closest('.carousel-container');
-  const slide = container.querySelector('.carousel-slide');
-  const images = slide.querySelectorAll('img');
-  const slideWidth = images[0].clientWidth;
-
-  // track current index
-  if (!container.currentIndex) container.currentIndex = 0;
-
-  container.currentIndex += direction;
-
-  if (container.currentIndex < 0) {
-    container.currentIndex = images.length - 1;
-  } else if (container.currentIndex >= images.length) {
-    container.currentIndex = 0;
-  }
 
   slide.style.transform = `translateX(${-slideWidth * container.currentIndex}px)`;
 }
