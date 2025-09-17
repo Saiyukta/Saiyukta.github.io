@@ -57,6 +57,19 @@ Motivated and detail-oriented MSc Computing and Information Systems graduate wit
 ## 🏛️ Academic Projects  
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<!-- Game App Review -->
+<div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
+  <a href="/projects/#-game-app-review">
+    <img src="/assets/gameapp.png" alt="Game App Review" style="width:100%; height:auto;">
+  </a>
+  <div style="padding:10px;">
+    <h4>Game App Review</h4>
+    <p>Android app to review and rate games with interactive UI using Java & SQLite.</p>
+    <p>
+      <a href="https://github.com/Saiyukta/CriticShare" target="_blank">GitHub</a>
+    </p>
+  </div>
+</div>
 
 <!-- Museum Artefacts Website -->
 <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-align: center;">
