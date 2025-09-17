@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍💻 Professional Summary  
 <div style="background:#f9f9f9; padding:15px; border-left:5px solid #0077b5; border-radius:8px; color:black;">
-Motivated and detail-oriented MSc Computing and Information Systems graduate with hands-on experience in software development, testing, and chatbot application design. Skilled in full-stack development, database management, and quality assurance. Adept at collaborating in cross-functional teams and passionate about building efficient, user-focused digital solutions.
+Motivated and detail-oriented MSc Computing and Information Systems graduate with hands-on experience in software development and testing. Skilled in full-stack development, database management, and quality assurance. Adept at collaborating in cross-functional teams and passionate about building efficient, user-focused digital solutions.
 </div>
 
 ---
