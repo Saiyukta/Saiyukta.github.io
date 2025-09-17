@@ -6,6 +6,39 @@ author_profile: true
 ---
 
 Here are some of the projects I’ve worked on:
+---
+
+## 🎮 Game Review App
+A full-stack mobile application that allows users to post, browse, and engage with game reviews in an interactive way. Built with a focus on smooth navigation, dynamic content, and engaging UI/UX.
+- Developed using **React Native, Redux, and REST APIs**
+- Supports user-generated reviews, fetching external data, and real-time updates
+
+<div class="carousel-container">
+  <button class="prev" onclick="moveSlide(this, -1)">❮</button>
+  <div class="carousel-slide">
+    <img src="/assets/gameapp.png" alt="Game Review App Screenshot">
+    <img src="/assets/gameapp-1.png" alt="Game Review App Screenshot 1">
+    <img src="/assets/gameapp-2.png" alt="Game Review App Screenshot 2">
+    <img src="/assets/gameapp-3.png" alt="Game Review App Screenshot 3">
+    <img src="/assets/gameapp-4.png" alt="Game Review App Screenshot 4">
+    <img src="/assets/gameapp-5.png" alt="Game Review App Screenshot 5">
+    <img src="/assets/gameapp-6.png" alt="Game Review App Screenshot 6">
+  </div>
+  <button class="next" onclick="moveSlide(this, 1)">❯</button>
+</div>
+
+### Features
+- Browse Reviews: Explore user-submitted reviews of different games.
+- Post Reviews: Add personal game reviews with title, rating, and description.
+- Adaptive UI: Stunning responsive design for iOS and Android.
+- Smooth Navigation: Implemented with React Navigation for seamless flow.
+- State Management: Robust data handling using Redux and Context API.
+- Dynamic Content: Integrated REST APIs for fetching external game data.
+
+### Technologies
+React Native | Redux | REST APIs | JavaScript  
+
+<a href="https://github.com/Saiyukta/CriticShare" target="_blank"> 📂 View Code on GitHub </a> 
 
 ---
 
